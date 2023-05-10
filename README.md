@@ -48,7 +48,6 @@ You need to have Node.js and npm installed on your local machine. You can downlo
    npm start
    ```
 
-5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to see the app running.
 
 ## Built With
 
